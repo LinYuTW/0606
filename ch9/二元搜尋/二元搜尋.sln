@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "二元搜尋", "二元搜尋\二元搜尋.vbproj", "{B8FAE53E-BC1E-4E22-B05F-7549A3F51CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FAE53E-BC1E-4E22-B05F-7549A3F51CC4}.Debug|x86.ActiveCfg = Debug|x86
+		{B8FAE53E-BC1E-4E22-B05F-7549A3F51CC4}.Debug|x86.Build.0 = Debug|x86
+		{B8FAE53E-BC1E-4E22-B05F-7549A3F51CC4}.Release|x86.ActiveCfg = Release|x86
+		{B8FAE53E-BC1E-4E22-B05F-7549A3F51CC4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

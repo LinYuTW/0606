@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ex-身份證字號判斷男女", "ex-身份證字號判斷男女\ex-身份證字號判斷男女.vbproj", "{F2018DC8-D2E7-40D8-922F-CF6D248319C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2018DC8-D2E7-40D8-922F-CF6D248319C6}.Debug|x86.ActiveCfg = Debug|x86
+		{F2018DC8-D2E7-40D8-922F-CF6D248319C6}.Debug|x86.Build.0 = Debug|x86
+		{F2018DC8-D2E7-40D8-922F-CF6D248319C6}.Release|x86.ActiveCfg = Release|x86
+		{F2018DC8-D2E7-40D8-922F-CF6D248319C6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

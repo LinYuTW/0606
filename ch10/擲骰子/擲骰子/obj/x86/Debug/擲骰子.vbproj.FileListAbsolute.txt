@@ -1,0 +1,11 @@
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\bin\Debug\擲骰子.exe
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\bin\Debug\擲骰子.pdb
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\bin\Debug\擲骰子.xml
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\擲骰子.exe
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\擲骰子.xml
+F:\mybook\VB\VB2010\ch10\擲骰子\擲骰子\obj\x86\Debug\擲骰子.pdb

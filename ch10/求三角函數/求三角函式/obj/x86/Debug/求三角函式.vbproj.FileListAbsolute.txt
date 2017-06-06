@@ -1,0 +1,11 @@
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\bin\Debug\求三角函式.exe
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\bin\Debug\求三角函式.pdb
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\bin\Debug\求三角函式.xml
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\求三角函式.exe
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\求三角函式.xml
+F:\mybook\VB\VB2010\ch10\求三角函式\求三角函式\obj\x86\Debug\求三角函式.pdb

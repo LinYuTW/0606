@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ex-找出陣列中最大值與所在位置", "ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置.vbproj", "{4887A0E0-26D8-4D80-9D54-ACB54D7ABB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4887A0E0-26D8-4D80-9D54-ACB54D7ABB64}.Debug|x86.ActiveCfg = Debug|x86
+		{4887A0E0-26D8-4D80-9D54-ACB54D7ABB64}.Debug|x86.Build.0 = Debug|x86
+		{4887A0E0-26D8-4D80-9D54-ACB54D7ABB64}.Release|x86.ActiveCfg = Release|x86
+		{4887A0E0-26D8-4D80-9D54-ACB54D7ABB64}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

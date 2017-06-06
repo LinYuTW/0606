@@ -1,0 +1,11 @@
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\bin\Debug\ex-找出陣列中最大值與所在位置.exe
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\bin\Debug\ex-找出陣列中最大值與所在位置.pdb
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\bin\Debug\ex-找出陣列中最大值與所在位置.xml
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\ex-找出陣列中最大值與所在位置.exe
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\ex-找出陣列中最大值與所在位置.xml
+G:\mybook\VB\VB2010\ch9\ex-找出陣列中最大值與所在位置\ex-找出陣列中最大值與所在位置\obj\x86\Debug\ex-找出陣列中最大值與所在位置.pdb

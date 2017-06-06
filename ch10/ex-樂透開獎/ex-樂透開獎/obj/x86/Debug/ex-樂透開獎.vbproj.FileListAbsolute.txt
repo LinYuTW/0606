@@ -1,0 +1,11 @@
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\bin\Debug\ex-樂透開獎.exe
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\bin\Debug\ex-樂透開獎.pdb
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\bin\Debug\ex-樂透開獎.xml
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\ex-樂透開獎.exe
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\ex-樂透開獎.xml
+G:\mybook\VB\VB2010\ch10\ex-樂透開獎\ex-樂透開獎\obj\x86\Debug\ex-樂透開獎.pdb
